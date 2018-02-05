@@ -11,4 +11,5 @@ LazyData: true
 License: MIT
 RoxygenNote: 6.0.1
 Imports:
-  lawstat
+  lawstat,
+  nlme
