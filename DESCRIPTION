@@ -3,12 +3,13 @@ Type: Package
 Title: Modeling longitudinal Breath Data (LOngitudinal BReath Analysis)
 Version: 1.0
 Date: 2017-07-04
-Author: Anne-Christin Hauschild
+Author@R: person("Anne-Christin", "Hauschild", email = "achauschild@googlemail.com",
+                  role = c("aut", "cre"))
 Maintainer: Anne-Christin Hauschild  <achauschild@googlemail.com>
-Description: More about what it does (maybe more than one line)
+Description: LoBrA is dedicated to the analysis of longitudinal breath data.
 Depends: R (>= 3.2.0)
 LazyData: true
-License: MIT
+License: GNU
 RoxygenNote: 6.0.1
 Imports:
   lawstat,
